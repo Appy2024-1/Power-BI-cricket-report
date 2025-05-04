@@ -1,4 +1,4 @@
-# Kohli's ODI Performance Analysis Report
+# Rohit Sharma's ODI Performance Analysis Report
 
 ## 🚀 Overview
 This **Power BI report** provides a comprehensive analysis of **Virat Kohli's ODI performance**, utilizing **Google Sheets** for data preparation and **Power BI** for visualizations.
